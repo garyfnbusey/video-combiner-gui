@@ -4,6 +4,7 @@ Select videos to combine into one longer video (MP4 Concatenator)
 A simple Python + Tkinter GUI tool to **quickly combine multiple MP4 video files into one longer video**.  
 Uses [FFmpeg](https://ffmpeg.org/) under the hood for fast, lossless concatenation (when possible), with a configurable re-encode option if clips don’t match.
 
+![GUI](GUI.jpg "Title")
 ---
 
 ## Features
